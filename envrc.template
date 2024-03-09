@@ -1,0 +1,9 @@
+export TURSO_URL=''
+export TURSO_AUTH=''
+export MQTT_URL=''
+export MQTT_PORT=
+export MQTT_USERNAME=''
+export MQTT_PASSWORD=''
+export TELEGRAM_TOKEN=''
+export MYTG_ID=''
+export TABLE_NAME=''
